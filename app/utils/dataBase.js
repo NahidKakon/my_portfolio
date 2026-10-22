@@ -72,29 +72,32 @@ export const projects = [
   },
 ];
 
+const basePath = process.env.NODE_ENV === 'production' ? '/my_portfolio' : '';
+
 export const services = [
   {
-    imgSrc: '/ui.svg',
+    imgSrc: `${basePath}/ui.svg`,
     altText: 'AI Visual Content Creation',
     title: 'AI Visual Content Creation',
     description:
       'Creating engaging AI-generated images, visual concepts and creative assets for digital content, storytelling, product presentations and online platforms. Exploring new AI tools and workflows to achieve high-quality, visually consistent results.',
   },
   {
-    imgSrc: '/web.svg',
+    imgSrc: `${basePath}/web.svg`,
     altText: 'Digital Design & Visual Storytelling',
     title: 'Digital Design & Visual Storytelling',
     description:
       'Developing compelling visual concepts and digital presentations that combine creative design, imagery and clear communication. Creating portfolio projects, product visuals and engaging content for websites and digital platforms.',
   },
   {
-    imgSrc: '/front.svg',
+    imgSrc: `${basePath}/front.svg`,
     altText: 'AI Video & Animation',
     title: 'AI Video & Animation',
     description:
-      'Creating AI-assisted animations, short videos and visual stories, from concept development and asset generation to editing and final production. Using tools such as Giz.ai, ToonBee, Canva and CapCut to bring creative ideas to life.'},
+      'Creating AI-assisted animations, short videos and visual stories, from concept development and asset generation to editing and final production. Using tools such as Giz.ai, ToonBee, Canva and CapCut to bring creative ideas to life.',
+  },
   {
-    imgSrc: '/back.svg',
+    imgSrc: `${basePath}/back.svg`,
     altText: 'AI-Assisted Web Application Development',
     title: 'AI-Assisted Web Application Development',
     description:
