@@ -24,7 +24,7 @@ function HeroSection() {
       </Link>
     ));
 
-  const paraText = "AI Video Creator | Realistic AI Presenters, Animation & Social Content. My works not only look great but also deliver seamless user interactions.";
+  const paraText = "AI Video Creator | Realistic AI Presenters, Animation & Social Content. <br /> My works not only look great but also deliver seamless user interactions.";
 
   return (
     <section
