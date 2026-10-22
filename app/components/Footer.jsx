@@ -10,7 +10,7 @@ function Footer() {
     <>
     <footer className="mt-[3rem] flex flex-col justify-center items-center gap-6 md:gap-12 py-12 bg-[#f8f8f8]">
       <Image
-        src="/logo.svg"
+        src="logo.svg"
         alt="logo"
         // className="transition-transform duration-300 cursor-pointer hover:-rotate-6"
         width={150}
