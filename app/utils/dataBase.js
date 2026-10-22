@@ -14,17 +14,17 @@ export const navLinks = [
 
 export const socialLinks = [
   {
-    href: 'https://www.linkedin.com',
+    href: 'https://www.linkedin.com/in/nahid-shakib-0507ba86',
     icon: <FaLinkedin className="size-5" />,
     label: 'LinkedIn',
   },
+  // {
+  //   href: 'https://www.facebook.com',
+  //   icon: <FaFacebook className="size-5" />,
+  //   label: 'Facebook',
+  // },
   {
-    href: 'https://www.facebook.com',
-    icon: <FaFacebook className="size-5" />,
-    label: 'Facebook',
-  },
-  {
-    href: 'https://www.github.com',
+    href: 'https://github.com/NahidKakon',
     icon: <FaGithub className="size-5" />,
     label: 'GitHub',
   },
