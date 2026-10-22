@@ -24,11 +24,11 @@ function SevicesSection() {
           ideas effectively, and meets the needs of each project.
         </p>
 
-        <p>
+        <p className="cursor-pointer transition-transform duration-200 transform hover:scale-110">
           🚀 <strong>What I Can Help You With</strong>
         </p>
 
-        <p>
+        <p className="cursor-pointer transition-transform duration-200 transform hover:scale-110">
           🎬 <strong>AI Video Creation &amp; Animation</strong>
           <br />
           • AI-generated animated videos and music videos
@@ -42,7 +42,7 @@ function SevicesSection() {
           • Creative video concepts and scene development
         </p>
 
-        <p>
+        <p className="cursor-pointer transition-transform duration-200 transform hover:scale-110">
           🎨 <strong>AI Image Generation &amp; Visual Design</strong>
           <br />
           • AI-generated images and illustrations
@@ -54,7 +54,7 @@ function SevicesSection() {
           • Consistent visual styles for video projects
         </p>
 
-        <p>
+        <p className="cursor-pointer transition-transform duration-200 transform hover:scale-110">
           ✨ <strong>AI Animation, VFX &amp; 3D Visuals</strong>
           <br />
           • AI-assisted animation and visual effects workflows
@@ -64,7 +64,7 @@ function SevicesSection() {
           • 3D modelling and AI-assisted 3D workflows, tailored to project requirements
         </p>
 
-        <p>
+        <p className="cursor-pointer transition-transform duration-200 transform hover:scale-110">
           📊 <strong>Video Metadata &amp; YouTube Optimisation</strong>
           <br />
           • Video titles, descriptions, and relevant keywords
@@ -74,7 +74,7 @@ function SevicesSection() {
           • YouTube content packaging and discoverability support
         </p>
 
-        <p>
+        <p className="cursor-pointer transition-transform duration-200 transform hover:scale-110">
           💻 <strong>AI-Assisted Programming &amp; Automation</strong>
           <br />
           • Using AI tools to assist with coding and scripting
@@ -84,7 +84,7 @@ function SevicesSection() {
           • Troubleshooting, code improvement, and task automation, depending on project requirements
         </p>
 
-        <p>
+        <p className="cursor-pointer transition-transform duration-200 transform hover:scale-110">
           🎵 <strong>Real-World Creative Experience</strong>
         </p>
 
@@ -104,7 +104,7 @@ function SevicesSection() {
           presenting videos for an online audience.
         </p>
 
-        <p>
+        <p className="cursor-pointer transition-transform duration-200 transform hover:scale-110">
           💼 <strong>A Professional Approach to Every Project</strong>
         </p>
 
@@ -126,7 +126,7 @@ function SevicesSection() {
           aligns with your brief, objectives, and expectations.
         </p>
 
-        <p>
+        <p className="cursor-pointer transition-transform duration-200 transform hover:scale-110">
           🤝 <strong>Let's Work Together</strong>
         </p>
 
